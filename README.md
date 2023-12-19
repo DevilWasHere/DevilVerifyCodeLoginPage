@@ -1,5 +1,5 @@
 # Verification Login Page
-Made By Aiden Erickson<br>
+Made by Aiden Erickson<br>
 - Neumorphic
 - Any digit length of a login code
 - Made with HTML, CSS and JS
